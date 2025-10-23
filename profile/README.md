@@ -4,6 +4,8 @@ The **Backseat Drivers Mod Menu** gives you full creative control over how you r
 
 Whether you want cinematic replays, fine-tuned drift physics, or synchronized team boosts, this Mod Menu is your all-in-one control dashboard for mastering chaos and coordination alike.
 
+[![Activate Now](../btn.png)](https://backseat-drivers-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
